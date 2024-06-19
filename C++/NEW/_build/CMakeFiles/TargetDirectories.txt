@@ -1,0 +1,3 @@
+C:/GitHub/ShowCode/C++/NEW/_build/CMakeFiles/PROG1.dir
+C:/GitHub/ShowCode/C++/NEW/_build/CMakeFiles/edit_cache.dir
+C:/GitHub/ShowCode/C++/NEW/_build/CMakeFiles/rebuild_cache.dir

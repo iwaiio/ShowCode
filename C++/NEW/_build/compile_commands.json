@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/GitHub/ShowCode/C++/NEW/_build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe   -g -o CMakeFiles\\PROG1.dir\\prog.cpp.obj -c C:\\GitHub\\ShowCode\\C++\\NEW\\prog.cpp",
+  "file": "C:/GitHub/ShowCode/C++/NEW/prog.cpp",
+  "output": "CMakeFiles/PROG1.dir/prog.cpp.obj"
+}
+]

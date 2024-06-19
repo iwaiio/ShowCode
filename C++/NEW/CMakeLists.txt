@@ -1,11 +1,14 @@
 cmake_minimum_required(VERSION 3.28.0)
-project(PROG1 VERSION 0.1.0 LANGUAGES CPP)
+project(PROG1 VERSION 0.0.1)
 
-set(FILES_LIST
+set(SRC_
     prog.cpp
+)
+
+set(LIB_
     prog.h
 )
 
 #include_directories("")
 
-add_executable(${PROJECT_NAME} ${FILES_LIST})
+add_executable(${PROJECT_NAME} ${SRC_} ${LIB_})
