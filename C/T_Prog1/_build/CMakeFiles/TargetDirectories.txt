@@ -1,0 +1,3 @@
+C:/GitHub/ShowCode/C/T_Prog1/_build/CMakeFiles/T_PROG_1.dir
+C:/GitHub/ShowCode/C/T_Prog1/_build/CMakeFiles/edit_cache.dir
+C:/GitHub/ShowCode/C/T_Prog1/_build/CMakeFiles/rebuild_cache.dir
