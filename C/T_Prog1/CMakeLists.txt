@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.28.0)
-project(T_PROG_1 VERSION 0.0.1 LANGUAGES C)
+project(T_PROG_1 VERSION 0.1.6 LANGUAGES C)
 
 # каталоги
 set(LIB_DIR "LIB")

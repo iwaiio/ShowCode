@@ -7,6 +7,7 @@
 #include <time.h>
 #include <string.h>
 
+#include <glib.h>
 #include <gtk/gtk.h>
 
 extern uint16_t scr;

@@ -1,32 +1,43 @@
 CMakeFiles/T_PROG_1.dir/SRC/main.c.obj: \
  C:\GitHub\ShowCode\C\T_Prog1\SRC\main.c \
- C:/msys64/mingw64/include/gtk-4.0/gtk/gtk.h \
- C:/msys64/mingw64/include/gtk-4.0/gtk/css/gtkcss.h \
- C:/msys64/mingw64/include/glib-2.0/glib.h \
- C:/msys64/mingw64/include/glib-2.0/glib/galloca.h \
- C:/msys64/mingw64/include/glib-2.0/glib/gtypes.h \
- C:/msys64/mingw64/lib/glib-2.0/include/glibconfig.h \
- C:/msys64/mingw64/include/glib-2.0/glib/gmacros.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
- C:/msys64/mingw64/include/stddef.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/GitHub/ShowCode/C/T_Prog1/LIB/head.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/msys64/mingw64/include/stdint.h C:/msys64/mingw64/include/crtdefs.h \
  C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
  C:/msys64/mingw64/include/_mingw_mac.h \
  C:/msys64/mingw64/include/_mingw_secapi.h \
  C:/msys64/mingw64/include/vadefs.h \
  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h C:/msys64/mingw64/include/stdio.h \
+ C:/msys64/mingw64/include/corecrt_stdio_config.h \
+ C:/msys64/mingw64/include/_mingw_off_t.h \
+ C:/msys64/mingw64/include/swprintf.inl \
+ C:/msys64/mingw64/include/sec_api/stdio_s.h \
+ C:/msys64/mingw64/include/stdlib.h \
+ C:/msys64/mingw64/include/corecrt_wstdlib.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
  C:/msys64/mingw64/include/limits.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/float.h \
- C:/msys64/mingw64/include/float.h \
- C:/msys64/mingw64/include/glib-2.0/glib/gversionmacros.h \
- C:/msys64/mingw64/include/glib-2.0/glib/glib-visibility.h \
- C:/msys64/mingw64/include/time.h C:/msys64/mingw64/include/sys/timeb.h \
+ C:/msys64/mingw64/include/sec_api/stdlib_s.h \
+ C:/msys64/mingw64/include/malloc.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
+ C:/msys64/mingw64/include/errno.h C:/msys64/mingw64/include/time.h \
+ C:/msys64/mingw64/include/sys/timeb.h \
  C:/msys64/mingw64/include/sec_api/sys/timeb_s.h \
  C:/msys64/mingw64/include/_timeval.h \
  C:/msys64/mingw64/include/pthread_time.h \
  C:/msys64/mingw64/include/string.h \
  C:/msys64/mingw64/include/sec_api/string_s.h \
+ C:/msys64/mingw64/include/glib-2.0/glib.h \
+ C:/msys64/mingw64/include/glib-2.0/glib/galloca.h \
+ C:/msys64/mingw64/include/glib-2.0/glib/gtypes.h \
+ C:/msys64/mingw64/lib/glib-2.0/include/glibconfig.h \
+ C:/msys64/mingw64/include/glib-2.0/glib/gmacros.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/float.h \
+ C:/msys64/mingw64/include/float.h \
+ C:/msys64/mingw64/include/glib-2.0/glib/gversionmacros.h \
+ C:/msys64/mingw64/include/glib-2.0/glib/glib-visibility.h \
  C:/msys64/mingw64/include/glib-2.0/glib/garray.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gasyncqueue.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gthread.h \
@@ -98,11 +109,6 @@ CMakeFiles/T_PROG_1.dir/SRC/main.c.obj: \
  C:/msys64/mingw64/include/glib-2.0/glib/gstringchunk.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gstrvbuilder.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gtestutils.h \
- C:/msys64/mingw64/include/errno.h C:/msys64/mingw64/include/stdlib.h \
- C:/msys64/mingw64/include/corecrt_wstdlib.h \
- C:/msys64/mingw64/include/sec_api/stdlib_s.h \
- C:/msys64/mingw64/include/malloc.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gthreadpool.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gtimer.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gtrashstack.h \
@@ -118,6 +124,8 @@ CMakeFiles/T_PROG_1.dir/SRC/main.c.obj: \
  C:/msys64/mingw64/include/glib-2.0/glib/deprecated/grel.h \
  C:/msys64/mingw64/include/glib-2.0/glib/deprecated/gthread.h \
  C:/msys64/mingw64/include/glib-2.0/glib/glib-autocleanups.h \
+ C:/msys64/mingw64/include/gtk-4.0/gtk/gtk.h \
+ C:/msys64/mingw64/include/gtk-4.0/gtk/css/gtkcss.h \
  C:/msys64/mingw64/include/gtk-4.0/gdk/version/gdkversionmacros.h \
  C:/msys64/mingw64/include/gtk-4.0/gdk/version/gdk-visibility.h \
  C:/msys64/mingw64/include/gtk-4.0/gtk/css/gtkcssenums.h \
@@ -326,8 +334,6 @@ CMakeFiles/T_PROG_1.dir/SRC/main.c.obj: \
  C:/msys64/mingw64/include/harfbuzz/hb-blob.h \
  C:/msys64/mingw64/include/harfbuzz/hb-common.h \
  C:/msys64/mingw64/include/inttypes.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
- C:/msys64/mingw64/include/stdint.h \
  C:/msys64/mingw64/include/harfbuzz/hb-buffer.h \
  C:/msys64/mingw64/include/harfbuzz/hb-unicode.h \
  C:/msys64/mingw64/include/harfbuzz/hb-font.h \
@@ -365,11 +371,6 @@ CMakeFiles/T_PROG_1.dir/SRC/main.c.obj: \
  C:/msys64/mingw64/include/pango-1.0/pango/pango-markup.h \
  C:/msys64/mingw64/include/pango-1.0/pango/pango-renderer.h \
  C:/msys64/mingw64/include/pango-1.0/pango/pango-utils.h \
- C:/msys64/mingw64/include/stdio.h \
- C:/msys64/mingw64/include/corecrt_stdio_config.h \
- C:/msys64/mingw64/include/_mingw_off_t.h \
- C:/msys64/mingw64/include/swprintf.inl \
- C:/msys64/mingw64/include/sec_api/stdio_s.h \
  C:/msys64/mingw64/include/gtk-4.0/gdk/gdkconfig.h \
  C:/msys64/mingw64/include/gtk-4.0/gdk/gdkenums.h \
  C:/msys64/mingw64/include/gtk-4.0/gdk/gdkcairo.h \
@@ -759,5 +760,4 @@ CMakeFiles/T_PROG_1.dir/SRC/main.c.obj: \
  C:/msys64/mingw64/include/gtk-4.0/gtk/gtkwindowcontrols.h \
  C:/msys64/mingw64/include/gtk-4.0/gtk/gtkwindowgroup.h \
  C:/msys64/mingw64/include/gtk-4.0/gtk/gtkwindowhandle.h \
- C:/GitHub/ShowCode/C/T_Prog1/LIB/head.h \
  C:/GitHub/ShowCode/C/T_Prog1/_build/LIB/version.h
