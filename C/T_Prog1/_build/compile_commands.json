@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/GitHub/ShowCode/C/T_Prog1/_build",
-  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/T_PROG_1.dir/includes_C.rsp -g   -mfpmath=sse -msse -msse2 -o CMakeFiles\\T_PROG_1.dir\\SRC\\main.c.obj -c C:\\GitHub\\ShowCode\\C\\T_Prog1\\SRC\\main.c",
-  "file": "C:/GitHub/ShowCode/C/T_Prog1/SRC/main.c",
-  "output": "CMakeFiles/T_PROG_1.dir/SRC/main.c.obj"
-}
-]
